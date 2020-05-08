@@ -1,3 +1,4 @@
 Male
-28 years old
+28 years old, born 1991
 Canadian
+Plays hockey.
